@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("My project");
             Console.ReadKey();
+            Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
